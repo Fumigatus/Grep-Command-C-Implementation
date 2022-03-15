@@ -4,7 +4,7 @@
 ## How to Compile:
 `gcc grepFile.c -o grepFile`
 ## How to Run:
-`./grepFile [textFileName] [searchedWord]
+`./grepFile [textFileName] [searchedWord]`
 ## Sample:
 1) `gcc grepFile.c -o grepFile`<br>
 2) `gcc ./grepFile sample.txt deep`
